@@ -1,0 +1,24 @@
+{
+  "name": "bootstrap-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konrad-podolak/bootstrap-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konrad-podolak/bootstrap-playground/issues"
+  },
+  "homepage": "https://github.com/konrad-podolak/bootstrap-playground#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "normalize.css": "^8.0.1"
+  }
+}

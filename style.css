@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  max-width: 1600px;
+  font-size: 32px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.container-fluid {
+  margin: 0 auto 0 auto;
+
+  text-align: center;
+}
+
+.col-test1 {
+  color: white;
+  background-color: rgb(116, 160, 211);
+  border: solid 2px white;
+}
+
+.col-test2 {
+  color: white;
+  background-color: rgb(219, 90, 107);
+  border: solid 2px white;
+  text-align: center;
+}
+
+.col-test3 {
+  color: white;
+  background-color: rgb(8, 17, 99);
+  border: solid 2px white;
+  text-align: center;
+}
+
+h2 {
+  font-size: 56px;
+  text-align: center;
+  margin-top: 32px;
+  font-weight: bolder;
+}
